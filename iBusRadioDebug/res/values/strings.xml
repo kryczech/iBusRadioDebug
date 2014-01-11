@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iBus Debug</string>
+    <string name="seekbar_label">Move to control the position:</string>
+    <string name="analog_label">Analog reading:</string>
+    <string name="uart_status_label">UART status:</string>
+    <string name="input_data_label">Input data:</string>
+    <string name="output_data_label">Output status:</string>
+    <string name="send_data_label">Send Bytes</string>
+    <string name="mode_label">Mode</string>
+    <string name="button_enable">Enable</string>
+</resources>
